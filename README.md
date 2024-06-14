@@ -29,11 +29,11 @@ The data used in this project is sourced from publicly available Airbnb listings
 ## Visualizations
 
 ### Dashboard 1
-https://github.com/mutaraw/tableau-project-airbnb-seattle-washington-data/blob/main/dashboard-screenshots/Dashboard-1.png
+![Dashboard 1](https://github.com/mutaraw/tableau-project-airbnb-seattle-washington-data/blob/main/dashboard-screenshots/Dashboard-1.png)
 **Description:** This dashboard displays the average price per host by neighborhood in Seattle. It provides a comprehensive overview of price distribution across different areas.
 
 ### Dashboard 2
-![Dashboard 2]dashboard-screenshots/Dashboard-2.png
+![Dashboard 2](dashboard-screenshots/Dashboard-2.png)
 **Description:** This dashboard focuses on the average price per host within specific neighborhood groups like Ballard, Capital Hill, and Beacon Hill, providing a segmented view of the pricing data.
 
 ### Dashboard 3
