@@ -29,7 +29,7 @@ The data used in this project is sourced from publicly available Airbnb listings
 ## Visualizations
 
 ### Dashboard 1
-![Dashboard 1]dashboard-screenshots/Dashboard-1.png
+dashboard-screenshots/Dashboard-1.png
 **Description:** This dashboard displays the average price per host by neighborhood in Seattle. It provides a comprehensive overview of price distribution across different areas.
 
 ### Dashboard 2
