@@ -29,7 +29,7 @@ The data used in this project is sourced from publicly available Airbnb listings
 ## Visualizations
 
 ### Dashboard 1
-![Dashboard 1](https://github.com/mutaraw/tableau-project-airbnb-seattle-washington-data/blob/main/dashboard-screenshots/Dashboard-1.png)
+![Dashboard 1](dashboard-screenshots/Dashboard-1.png)
 **Description:** This dashboard displays the average price per host by neighborhood in Seattle. It provides a comprehensive overview of price distribution across different areas.
 
 ### Dashboard 2
@@ -37,31 +37,31 @@ The data used in this project is sourced from publicly available Airbnb listings
 **Description:** This dashboard focuses on the average price per host within specific neighborhood groups like Ballard, Capital Hill, and Beacon Hill, providing a segmented view of the pricing data.
 
 ### Dashboard 3
-![Dashboard 3]dashboard-screenshots/Dashboard-3.png
+![Dashboard 3](dashboard-screenshots/Dashboard-3.png)
 **Description:** This dashboard continues the neighborhood group analysis, highlighting Cascade, Central Area, and Delridge.
 
 ### Dashboard 4
-![Dashboard 4]dashboard-screenshots/Dashboard-4.png
+![Dashboard 4](dashboard-screenshots/Dashboard-4.png)
 **Description:** This dashboard includes neighborhood groups such as Interbay, Lake City, and Magnolia, further breaking down the price analysis.
 
 ### Dashboard 5
-![Dashboard 5]dashboard-screenshots/Dashboard-5.png
+![Dashboard 5](dashboard-screenshots/Dashboard-5.png)
 **Description:** This dashboard covers Northgate, Queen Anne, and other neighborhoods, providing additional insights into price variations.
 
 ### Dashboard 6
-![Dashboard 6]dashboard-screenshots/Dashboard-6.png
+![Dashboard 6](dashboard-screenshots/Dashboard-6.png)
 **Description:** This dashboard focuses on the Rainier Valley and West Seattle neighborhood groups, showcasing their average prices.
 
 ### Dashboard 7
-![Dashboard 7]dashboard-screenshots/Dashboard-7.png
+![Dashboard 7](dashboard-screenshots/Dashboard-7.png)
 **Description:** This visualization uses bubble charts to show the average price per host by neighborhood group and individual neighborhoods, making it easy to identify the highest average prices visually.
 
 ### Dashboard 8
-![Dashboard 8]dashboard-screenshots/Dashboard-8.png
+![Dashboard 8](dashboard-screenshots/Dashboard-8.png)
 **Description:** This dashboard maps the average price per host location, neighborhood, and neighborhood group on a geographical map of Seattle, providing a spatial perspective of the data.
 
 ### Dashboard 9
-![Dashboard 9]dashboard-screenshots/Dashboard-9.png
+![Dashboard 9](dashboard-screenshots/Dashboard-9.png)
 **Description:** This dashboard analyzes the revenue and average price per number of bedrooms, as well as the distinct number of listings per bedroom, giving insights into how the number of bedrooms affects pricing and revenue.
 
 ## How to View
